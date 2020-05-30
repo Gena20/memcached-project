@@ -4,7 +4,7 @@
 namespace App;
 
 
-class MemcacheUser implements IUser
+class MemcacheVKUser implements IUser
 {
     protected VKUser $VKUser;
     protected int $id;

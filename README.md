@@ -1,4 +1,4 @@
-#PHP patterns
+# Memcached simple project
 
-- Builder
-- Proxy
+- Singleton (MemcacheServer)
+- Proxy (MemcacheVKUser)
